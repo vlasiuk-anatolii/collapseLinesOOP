@@ -1,1 +1,1 @@
-*** TS template
+### Collapse Lines
