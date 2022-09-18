@@ -1,0 +1,27 @@
+.mainpage {
+  display: flex;
+  flex-direction: column;
+}
+
+#canvas {
+  width: 750px;
+  height: 450px;
+  border: 1px solid red;
+  margin-bottom: 25px;
+}
+
+.mainpage__button {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  width: 130px;
+  height: 35px;
+  border: 2px solid red;
+  color: red;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.mainpage__button:hover {
+  background-color: rgb(212, 205, 205);
+}
